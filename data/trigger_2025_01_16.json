@@ -1,0 +1,20 @@
+{
+  "trigger_id": "TRG_20250116_001",
+  "batch_date": "2025-01-16",
+  "client_name": "E-commerce Analytics",
+  "data_files_ready": true,
+  "expected_files": [
+    "orders_2025_01_16.csv",
+    "customers_2025_01_16.csv",
+    "products_2025_01_16.csv",
+    "inventory_2025_01_16.csv",
+    "shipping_2025_01_16.csv"
+  ],
+  "trigger_timestamp": "2025-01-16T08:00:00Z",
+  "processing_notes": "Second batch for SCD2 demonstration - includes some data changes to show historical tracking",
+  "data_quality_checks": {
+    "file_count_validation": true,
+    "schema_validation": true,
+    "business_rules_validation": true
+  }
+}

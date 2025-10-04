@@ -1,0 +1,22 @@
+{
+  "trigger_id": "batch_2025_01_15_001",
+  "trigger_timestamp": "2025-01-15T10:00:00Z",
+  "batch_date": "2025-01-15",
+  "client_name": "ecommerce_client",
+  "data_files_ready": true,
+  "expected_files": [
+    "orders_2025_01_15.csv",
+    "customers_2025_01_15.csv", 
+    "products_2025_01_15.csv",
+    "inventory_2025_01_15.csv",
+    "shipping_2025_01_15.csv"
+  ],
+  "source_system": "ecommerce_platform",
+  "processing_priority": "normal",
+  "metadata": {
+    "created_by": "client_data_team",
+    "environment": "production",
+    "version": "1.0",
+    "note": "All data files have been uploaded to respective source directories"
+  }
+}
