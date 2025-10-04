@@ -1,0 +1,21 @@
+product_id,product_name,category,subcategory,brand,price,currency,stock_quantity,weight_kg,dimensions_cm,color,material,description,launch_date,discontinued,created_timestamp
+PROD001,Wireless Bluetooth Headphones,Electronics,Audio,SoundMax,299.99,USD,150,0.3,"20x15x8",Black,Plastic,"High-quality wireless headphones with noise cancellation",2024-01-15,false,2025-01-15 08:30:15
+PROD002,Smart Fitness Watch,Electronics,Wearables,FitTech,149.50,USD,200,0.1,"4x4x1",Silver,Aluminum,"Advanced fitness tracking with heart rate monitor",2024-02-20,false,2025-01-15 09:15:22
+PROD003,Organic Cotton T-Shirt,Clothing,Apparel,EcoWear,89.99,USD,500,0.2,"30x25x2",Blue,Cotton,"Comfortable organic cotton t-shirt",2024-03-10,false,2025-01-15 10:45:33
+PROD004,Stainless Steel Water Bottle,Home & Garden,Kitchen,HydroLife,199.99,USD,300,0.5,"25x8x8",Silver,Steel,"Insulated stainless steel water bottle",2024-04-05,false,2025-01-15 11:20:44
+PROD005,LED Desk Lamp,Home & Garden,Lighting,BrightTech,79.99,USD,100,1.2,"35x20x15",White,Plastic,"Adjustable LED desk lamp with USB charging",2024-05-12,false,2025-01-15 12:10:55
+PROD006,Wireless Charging Pad,Electronics,Accessories,PowerUp,159.99,USD,250,0.4,"15x15x2",Black,Plastic,"Fast wireless charging pad for smartphones",2024-06-18,false,2025-01-15 13:25:16
+PROD007,Bluetooth Speaker,Electronics,Audio,SoundMax,229.99,USD,180,1.5,"25x15x10",Red,Plastic,"Portable Bluetooth speaker with deep bass",2024-07-25,false,2025-01-15 14:40:27
+PROD008,Ceramic Coffee Mug,Home & Garden,Kitchen,CoffeeCraft,99.99,USD,400,0.3,"12x10x10",White,Ceramic,"Handcrafted ceramic coffee mug",2024-08-30,false,2025-01-15 15:55:38
+PROD009,Smartphone Case,Electronics,Accessories,PhoneGuard,179.99,USD,350,0.1,"16x8x2",Clear,Silicone,"Protective smartphone case with wireless charging",2024-09-15,false,2025-01-15 16:30:49
+PROD010,Yoga Mat,Sports & Fitness,Exercise,FlexFit,129.99,USD,120,1.8,"180x60x1",Purple,Rubber,"Non-slip yoga mat with carrying strap",2024-10-20,false,2025-01-15 17:45:50
+PROD011,Wireless Mouse,Electronics,Computer,ClickTech,89.99,USD,200,0.2,"12x6x4",Black,Plastic,"Ergonomic wireless mouse with precision tracking",2024-11-10,false,2025-01-15 18:20:01
+PROD012,Essential Oil Diffuser,Home & Garden,Wellness,AromaLife,199.99,USD,80,0.8,"20x15x15",White,Ceramic,"Ultrasonic essential oil diffuser with LED lights",2024-12-05,false,2025-01-15 19:35:12
+PROD013,Resistance Bands Set,Sports & Fitness,Exercise,FlexFit,149.99,USD,90,0.5,"30x20x5",Multi-color,Latex,"Set of 5 resistance bands with door anchor",2025-01-01,false,2025-01-15 20:50:23
+PROD014,Phone Stand,Electronics,Accessories,PhoneGuard,79.99,USD,300,0.3,"15x10x8",Silver,Aluminum,"Adjustable phone stand for desk or table",2025-01-02,false,2025-01-15 21:15:34
+PROD015,Air Purifier,Home & Garden,Appliances,CleanAir,249.99,USD,60,3.5,"30x25x20",White,Plastic,"HEPA air purifier with smart controls",2025-01-03,false,2025-01-15 22:30:45
+PROD016,Protein Shaker Bottle,Sports & Fitness,Nutrition,FitTech,119.99,USD,200,0.4,"25x8x8",Blue,Plastic,"BPA-free protein shaker bottle with mixer ball",2025-01-04,false,2025-01-15 23:45:56
+PROD017,Wireless Earbuds,Electronics,Audio,SoundMax,189.99,USD,220,0.1,"6x4x3",White,Plastic,"True wireless earbuds with active noise cancellation",2025-01-05,false,2025-01-15 00:00:07
+PROD018,Desk Organizer,Home & Garden,Office,OrganizePro,99.99,USD,150,0.6,"30x20x15",Gray,Plastic,"Multi-compartment desk organizer",2025-01-06,false,2025-01-15 01:15:18
+PROD019,Smart Scale,Sports & Fitness,Health,FitTech,159.99,USD,100,2.0,"30x30x3",Black,Glass,"Smart body composition scale with app sync",2025-01-07,false,2025-01-15 02:30:29
+PROD020,LED Strip Lights,Home & Garden,Lighting,BrightTech,209.99,USD,80,0.8,"500x2x1",RGB,Plastic,"Smart LED strip lights with app control",2025-01-08,false,2025-01-15 03:45:40

@@ -1,0 +1,21 @@
+order_id,customer_id,product_id,order_date,order_amount,currency,payment_method,shipping_address,order_status,created_timestamp
+2001,1001,P001,2025-01-16,125.99,USD,Credit Card,"123 Main St, New York, NY 10001",completed,2025-01-16 08:30:15
+2002,1002,P002,2025-01-16,89.50,USD,PayPal,"456 Oak Ave, Los Angeles, CA 90210",completed,2025-01-16 09:15:22
+2003,1003,P003,2025-01-16,156.75,USD,Debit Card,"789 Pine St, Chicago, IL 60601",shipped,2025-01-16 10:45:33
+2004,1004,P004,2025-01-16,78.25,USD,Credit Card,"321 Elm St, Houston, TX 77001",processing,2025-01-16 11:20:44
+2005,1005,P005,2025-01-16,245.00,USD,Bank Transfer,"654 Maple Dr, Phoenix, AZ 85001",completed,2025-01-16 12:10:55
+2006,1006,P001,2025-01-16,199.99,USD,Credit Card,"987 Cedar Ln, Philadelphia, PA 19101",completed,2025-01-16 13:25:16
+2007,1007,P002,2025-01-16,67.80,USD,PayPal,"147 Birch Rd, San Antonio, TX 78201",processing,2025-01-16 14:40:27
+2008,1008,P006,2025-01-16,312.45,USD,Credit Card,"258 Spruce St, San Diego, CA 92101",shipped,2025-01-16 15:55:38
+2009,1009,P003,2025-01-16,89.99,USD,Debit Card,"369 Willow Ave, Dallas, TX 75201",completed,2025-01-16 16:30:49
+2010,1010,P007,2025-01-16,178.50,USD,Credit Card,"741 Poplar St, San Jose, CA 95101",processing,2025-01-16 17:45:50
+2011,1011,P004,2025-01-16,134.75,USD,PayPal,"852 Ash Dr, Austin, TX 78701",completed,2025-01-16 18:20:01
+2012,1012,P005,2025-01-16,267.99,USD,Credit Card,"963 Hickory Ln, Jacksonville, FL 32201",shipped,2025-01-16 19:35:12
+2013,1013,P001,2025-01-16,89.25,USD,Debit Card,"174 Walnut St, Fort Worth, TX 76101",completed,2025-01-16 20:50:23
+2014,1014,P008,2025-01-16,156.80,USD,Credit Card,"285 Cherry Ave, Columbus, OH 43201",processing,2025-01-16 21:15:34
+2015,1015,P002,2025-01-16,78.99,USD,PayPal,"396 Dogwood Rd, Charlotte, NC 28201",completed,2025-01-16 22:30:45
+2016,1016,P006,2025-01-16,234.50,USD,Credit Card,"507 Magnolia St, Seattle, WA 98101",shipped,2025-01-16 23:45:56
+2017,1017,P003,2025-01-16,167.25,USD,Debit Card,"618 Sycamore Dr, Denver, CO 80201",completed,2025-01-17 00:00:07
+2018,1018,P004,2025-01-16,123.75,USD,Credit Card,"729 Chestnut Ln, Washington, DC 20001",processing,2025-01-17 01:15:18
+2019,1019,P009,2025-01-16,289.99,USD,Credit Card,"830 Locust St, Boston, MA 02101",completed,2025-01-17 02:30:29
+2020,1020,P005,2025-01-16,145.50,USD,PayPal,"941 Mulberry Ave, Nashville, TN 37201",shipped,2025-01-17 03:45:40

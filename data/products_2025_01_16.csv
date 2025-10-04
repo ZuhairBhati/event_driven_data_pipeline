@@ -1,0 +1,11 @@
+product_id,product_name,category,subcategory,brand,price,currency,stock_quantity,weight_kg,dimensions_cm,color,material,description,launch_date,discontinued,created_timestamp
+P001,Wireless Bluetooth Headphones,Electronics,Audio,SoundMax,89.99,USD,45,0.3,25x20x8,Black,Plastic,"High-quality wireless headphones with noise cancellation",2024-01-15,False,2025-01-16 08:30:15
+P002,Smart Fitness Tracker,Electronics,Wearables,FitTech,79.99,USD,32,0.1,4x2x1,Blue,Silicon,"Advanced fitness tracker with heart rate monitoring",2024-02-01,False,2025-01-16 09:15:22
+P003,Ergonomic Office Chair,Furniture,Seating,ComfortPro,299.99,USD,18,12.5,60x60x120,Black,Mesh,"Professional ergonomic office chair with lumbar support",2024-01-20,False,2025-01-16 10:45:33
+P004,Stainless Steel Water Bottle,Home & Kitchen,Hydration,HydroMax,24.99,USD,67,0.4,20x7x7,Silver,Stainless Steel,"Insulated stainless steel water bottle, keeps drinks cold for 24 hours",2024-03-10,False,2025-01-16 11:20:44
+P005,Wireless Charging Pad,Electronics,Accessories,ChargeTech,39.99,USD,89,0.2,10x10x1,White,Plastic,"Fast wireless charging pad compatible with all Qi-enabled devices",2024-04-15,False,2025-01-16 12:10:55
+P006,Bluetooth Speaker,Electronics,Audio,SoundMax,129.99,USD,23,0.8,15x10x5,Red,Plastic,"Portable Bluetooth speaker with 20W output and 12-hour battery",2024-05-01,False,2025-01-16 13:25:16
+P007,LED Desk Lamp,Furniture,Lighting,BrightTech,49.99,USD,56,1.2,35x25x15,White,Metal,"Adjustable LED desk lamp with USB charging port",2024-06-10,False,2025-01-16 14:40:27
+P008,Smart Doorbell,Electronics,Security,SafeHome,199.99,USD,12,0.6,12x4x4,Black,Plastic,"WiFi-enabled smart doorbell with HD video and two-way audio",2024-07-20,False,2025-01-16 15:55:38
+P009,Mechanical Gaming Keyboard,Electronics,Gaming,GameMax,149.99,USD,34,1.1,45x15x3,RGB,Plastic,"RGB mechanical gaming keyboard with customizable backlighting",2024-08-05,False,2025-01-16 16:30:49
+P010,Portable Power Bank,Electronics,Accessories,PowerMax,29.99,USD,78,0.3,10x7x2,Black,Plastic,"10000mAh portable power bank with fast charging capability",2024-09-15,False,2025-01-16 17:45:50

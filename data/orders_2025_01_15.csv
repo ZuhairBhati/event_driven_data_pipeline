@@ -1,0 +1,21 @@
+order_id,customer_id,product_id,order_date,order_amount,currency,payment_method,shipping_address,order_status,created_timestamp
+ORD001,1001,PROD001,2025-01-15,299.99,USD,credit_card,"123 Main St, New York, NY 10001",pending,2025-01-15 08:30:15
+ORD002,1002,PROD002,2025-01-15,149.50,USD,paypal,"456 Oak Ave, Los Angeles, CA 90210",confirmed,2025-01-15 09:15:22
+ORD003,1003,PROD003,2025-01-15,89.99,USD,debit_card,"789 Pine St, Chicago, IL 60601",shipped,2025-01-15 10:45:33
+ORD004,1004,PROD004,2025-01-15,199.99,USD,credit_card,"321 Elm St, Houston, TX 77001",delivered,2025-01-15 11:20:44
+ORD005,1005,PROD005,2025-01-15,79.99,USD,apple_pay,"654 Maple Dr, Phoenix, AZ 85001",pending,2025-01-15 12:10:55
+ORD006,1006,PROD006,2025-01-15,159.99,USD,credit_card,"987 Cedar Ln, Philadelphia, PA 19101",confirmed,2025-01-15 13:25:16
+ORD007,1007,PROD007,2025-01-15,229.99,USD,google_pay,"147 Birch Rd, San Antonio, TX 78201",shipped,2025-01-15 14:40:27
+ORD008,1008,PROD008,2025-01-15,99.99,USD,credit_card,"258 Spruce St, San Diego, CA 92101",delivered,2025-01-15 15:55:38
+ORD009,1009,PROD009,2025-01-15,179.99,USD,paypal,"369 Willow Ave, Dallas, TX 75201",pending,2025-01-15 16:30:49
+ORD010,1010,PROD010,2025-01-15,129.99,USD,debit_card,"741 Poplar St, San Jose, CA 95101",confirmed,2025-01-15 17:45:50
+ORD011,1011,PROD011,2025-01-15,89.99,USD,credit_card,"852 Ash Dr, Austin, TX 78701",shipped,2025-01-15 18:20:01
+ORD012,1012,PROD012,2025-01-15,199.99,USD,apple_pay,"963 Hickory Ln, Jacksonville, FL 32201",delivered,2025-01-15 19:35:12
+ORD013,1013,PROD013,2025-01-15,149.99,USD,google_pay,"174 Walnut St, Fort Worth, TX 76101",pending,2025-01-15 20:50:23
+ORD014,1014,PROD014,2025-01-15,79.99,USD,credit_card,"285 Cherry Ave, Columbus, OH 43201",confirmed,2025-01-15 21:15:34
+ORD015,1015,PROD015,2025-01-15,249.99,USD,paypal,"396 Dogwood Rd, Charlotte, NC 28201",shipped,2025-01-15 22:30:45
+ORD016,1016,PROD016,2025-01-15,119.99,USD,debit_card,"507 Magnolia St, Seattle, WA 98101",delivered,2025-01-15 23:45:56
+ORD017,1017,PROD017,2025-01-15,189.99,USD,credit_card,"618 Sycamore Dr, Denver, CO 80201",pending,2025-01-15 00:00:07
+ORD018,1018,PROD018,2025-01-15,99.99,USD,apple_pay,"729 Chestnut Ln, Washington, DC 20001",confirmed,2025-01-15 01:15:18
+ORD019,1019,PROD019,2025-01-15,159.99,USD,google_pay,"830 Locust St, Boston, MA 02101",shipped,2025-01-15 02:30:29
+ORD020,1020,PROD020,2025-01-15,209.99,USD,credit_card,"941 Mulberry Ave, Nashville, TN 37201",delivered,2025-01-15 03:45:40
